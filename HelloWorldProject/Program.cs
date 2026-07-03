@@ -10,7 +10,7 @@ namespace HelloWorldProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Ramya");
+            Console.WriteLine("Hello, Rachuuu");
             Console.ReadLine();
         }
     }
